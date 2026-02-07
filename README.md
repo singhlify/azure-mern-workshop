@@ -19,6 +19,7 @@ The workshop is an **8-week, hands-on series** where participants build and depl
 
 - **Week 1:** Introduction & Backend Setup  
   Slides are available in the `week-1` branch.
+- Backend Repo: https://github.com/singhlify/azure-mern-workshop-backend
 
 Additional weeks and materials will be added as the series progresses.
 

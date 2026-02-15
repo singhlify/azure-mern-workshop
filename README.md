@@ -20,6 +20,7 @@ The workshop is an **8-week, hands-on series** where participants build and depl
 - **Week 1:** Introduction & Backend Setup  
   Slides are available in the `week-1` branch.
 - Backend Repo: https://github.com/singhlify/azure-mern-workshop-backend
+- Video Guide to setup Azure Devops Organisation and fill up the Azure Devops Parallelism Request form: https://youtu.be/KQz_3urIrOs
 
 Additional weeks and materials will be added as the series progresses.
 
